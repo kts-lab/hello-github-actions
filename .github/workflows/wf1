@@ -1,5 +1,5 @@
 name: A workflow  triggered manually
-on: push
+on: workflow_dispatch
 
 jobs:
   build:
